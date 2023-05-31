@@ -1,4 +1,4 @@
-# haleytek_workshop
+# Haleytek Workshop
 
 ### Contents 
 - Natural Language Excersices
